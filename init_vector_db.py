@@ -1,7 +1,7 @@
 from vector_rag_db import VectorRAGDatabase
 import logging
 
-DOCUMENTS_DIR = r"ПОЛНЫЙ ПУТЬ К ПАПКЕ С ДОКУМЕНТАМИ"
+DOCUMENTS_DIR = r"ПОЛНЫЙ ПУТЬ К ПАПКЕ С ГОТОВЫМИ ДОЛЖНОСТНЫМИ ИНСТРУКЦИЯМИ И НОРМАТИВНЫМИ АКТАМИ, ПРОФСТАНДАРТАМИ И Т.Д"
 VECTOR_DB_PATH = r"ПУТЬ К ПАПКЕ С ВЕКТОРНОЙ БАЗОЙ"
 
 if __name__ == "__main__":
