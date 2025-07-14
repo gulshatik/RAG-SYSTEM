@@ -1,8 +1,8 @@
 from vector_rag_db import VectorRAGDatabase
 import logging
 
-DOCUMENTS_DIR = r"C:\Users\Гульшат\Desktop\ДИПЛОМ25\документы"
-VECTOR_DB_PATH = r"C:\Users\Гульшат\Desktop\ДИПЛОМ25\векторная_база"
+DOCUMENTS_DIR = r"ПОЛНЫЙ ПУТЬ К ПАПКЕ С ДОКУМЕНТАМИ"
+VECTOR_DB_PATH = r"ПУТЬ К ПАПКЕ С ВЕКТОРНОЙ БАЗОЙ"
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
